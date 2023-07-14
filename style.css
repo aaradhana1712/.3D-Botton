@@ -32,7 +32,7 @@
     transform: rotate(70deg) rotateZ(30deg);
     transform-style: preserve-3d;
     transition: transform 0.5s; 
-    padding-top: 7%;
+    padding-top: 3%;
 }
 
 .btn::before {
